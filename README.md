@@ -19,6 +19,6 @@
     </a>
 </center>
 
-Sweet [Vapor tutorial by Martin Lasek][tutorial] on how to write a CRUD API using JSON in Vapor3
+Result of very helpful [tutorial by David Möller][tutorial] on Setting up a CI/CD Pipeline with Vapor, Docker, Kubernetes, GitHub and CircleCI.
 
-[tutorial]: https://medium.com/@martinlasek/tutorial-write-a-crud-api-using-json-c1edb1439d8a
+[tutorial]: https://medium.com/@davidmller_78276/setting-up-a-ci-cd-pipeline-with-vapor-docker-kubernetes-github-and-circleci-ed62fd54df8d
