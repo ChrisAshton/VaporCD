@@ -18,7 +18,3 @@
         <img src="http://img.shields.io/badge/swift-4.1-brightgreen.svg" alt="Swift 4.1">
     </a>
 </center>
-
-Result of very helpful [tutorial by David Möller][tutorial] on Setting up a CI/CD Pipeline with Vapor, Docker, Kubernetes, GitHub and CircleCI.
-
-[tutorial]: https://medium.com/@davidmller_78276/setting-up-a-ci-cd-pipeline-with-vapor-docker-kubernetes-github-and-circleci-ed62fd54df8d
